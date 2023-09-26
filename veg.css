@@ -1,0 +1,13 @@
+#btm{
+    text-align: center;font-family: 'Courier New', Courier, monospace;
+text-decoration: underline;text-shadow: 6px 2px 16px blue;
+    font-size: 50px;}
+#welcome{
+    text-align: center;text-decoration: underline;text-shadow: 6px 2px 10px blue;line-height: 35px;
+    letter-spacing: 1px; font-family: 'Courier New', Courier, monospace;}
+#menu{
+    text-align: center;text-decoration: underline;text-shadow: 6px 2px 10px blue; letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace; font-family: 'Courier New', Courier, monospace;}
+p{
+    text-align: center;text-decoration: underline;text-shadow: 6px 2px 10px blue; letter-spacing: 2px;}
+#x{list-style-type: circle;}
